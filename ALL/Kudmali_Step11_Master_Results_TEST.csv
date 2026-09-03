@@ -1,0 +1,7 @@
+﻿Model,Task,Split,Gold Words,Boundary Precision,Boundary Recall,Boundary F1,Segmentation Precision,Segmentation Recall,Segmentation F1,Exact Segmentation Matches,Exact Segmentation Denominator,Evaluation Note
+Morfessor-Baseline fallback,Unsupervised,TEST,1,0.5,1.0,0.6667,0.5,1.0,0.6667,0,1,Fallback MDL-style implementation; official Morfessor 2.0.6 was not available in sandbox.
+CRF,Sequence labelling,TEST,1,1.0,1.0,1.0,1.0,1.0,1.0,1,1,Validated B/M/E/S TEST coverage = 1 Gold word.
+BiLSTM,Sequence labelling,TEST,1,1.0,1.0,1.0,1.0,1.0,1.0,1,1,Validated B/M/E/S TEST coverage = 1 Gold word.
+BiLSTM-CRF,Sequence labelling,TEST,1,1.0,1.0,1.0,1.0,1.0,1.0,1,1,Validated B/M/E/S TEST coverage = 1 Gold word.
+Logistic Regression,Boundary classification,TEST,1,1.0,1.0,1.0,1.0,1.0,1.0,1,1,Validated boundary TEST coverage = 6 positions from 1 Gold word.
+Transformer / LLMSegm,Boundary classification,TEST,1,1.0,1.0,1.0,1.0,1.0,1.0,1,1,Validated boundary TEST coverage = 6 positions from 1 Gold word.

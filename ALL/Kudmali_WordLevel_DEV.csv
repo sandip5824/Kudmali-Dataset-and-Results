@@ -1,0 +1,12 @@
+﻿id,category,subtype,affix,word,segmentation,base_or_root,morphological_features,source_page,source_image,confidence,review_required,step2_status,step2_reason,duplicate_word_flag,multiple_segmentation_for_word,split
+K00491,suffix,taddhita,আউলি,গাড়িআউলি,গাড়ি+আউলি,গাড়ি,adjectival/nominal suffix example,136,1000059279.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,YES,NO,DEV
+K00775,inflection,noun_case,আই,রূপাই,রূপা+আই,রূপা,noun_case,142,1000059300.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,DEV
+K00793,inflection,verb_finite_example,এহ,পঢ়েহিঅন,পঢ়া+এহ+ইঅন,পঢ়া,verb_finite_example,146,1000059309.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,DEV
+K00801,inflection,verb_finite_example,এহ,ধরেহেথিন,ধরা+এহ+এথিন,ধরা,verb_finite_example,146,1000059309.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,DEV
+K00808,inflection,verb_finite_example,ব+এহে,পঢ়বেহে,পঢ়া+ব+এহে,পঢ়া,future finite,153,1000059330.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,DEV
+K00821,inflection,verb_nonfinite,,নাচাউএলাই,নাচা+আউএলাই,নাচা,nonfinite,156,1000059339.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,DEV
+K00822,inflection,verb_nonfinite,,কাঁদে,কাঁদা+এ,কাঁদা,nonfinite,156,1000059339.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,DEV
+K00826,inflection,verb_nonfinite,,গাহে,গাহা+এ,গাহা,nonfinite,156,1000059339.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,DEV
+K00830,inflection,verb_nonfinite,,দেউএক,দেউআ+এক,দেউআ,nonfinite,156,1000059339.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,DEV
+K00837,inflection,verb_nonfinite,,বাঁধিকুহুন,বাঁধা+ইকুহুন,বাঁধা,nonfinite,157,1000059345.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,DEV
+K00842,inflection,verb_nonfinite,,নাচি,নাচা+ই,নাচা,nonfinite,157,1000059345.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,YES,YES,DEV

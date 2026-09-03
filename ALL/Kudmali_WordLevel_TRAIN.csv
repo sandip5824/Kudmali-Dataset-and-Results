@@ -1,0 +1,86 @@
+﻿id,category,subtype,affix,word,segmentation,base_or_root,morphological_features,source_page,source_image,confidence,review_required,step2_status,step2_reason,duplicate_word_flag,multiple_segmentation_for_word,split
+K00485,suffix,taddhita,আউলা,লুগাআউলা,লুগা+আউলা,লুগা,derivational suffix example,136,1000059279.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,YES,NO,TRAIN
+K00486,suffix,taddhita,আউলা,গাড়িআউলা,গাড়ি+আউলা,গাড়ি,derivational suffix example,136,1000059279.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,YES,NO,TRAIN
+K00487,suffix,taddhita,আউলি,ঘারআউলি,ঘার+আউলি,ঘার,adjectival/nominal suffix example,136,1000059279.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,YES,NO,TRAIN
+K00488,suffix,taddhita,আউলি,লুগাআউলি,লুগা+আউলি,লুগা,adjectival/nominal suffix example,136,1000059279.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,YES,NO,TRAIN
+K00489,suffix,taddhita,আউলি,মাছআউলি,মাছ+আউলি,মাছ,adjectival/nominal suffix example,136,1000059279.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,YES,NO,TRAIN
+K00490,suffix,taddhita,আউলি,চুইলআউলি,চুইল+আউলি,চুইল,adjectival/nominal suffix example,136,1000059279.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,YES,NO,TRAIN
+K00492,suffix,taddhita,আউলি,গরুআউলি,গরু+আউলি,গরু,adjectival/nominal suffix example,136,1000059279.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,YES,NO,TRAIN
+K00622,suffix,লাহনা/derivational suffix,দার,জমিদার,জমি+দার,জমি,লাহনা/derivational suffix,134,1000059273.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,YES,YES,TRAIN
+K00623,suffix,লাহনা/derivational suffix,দার,খেউঅটদার,খেউঅট+দার,খেউঅট,লাহনা/derivational suffix,134,1000059273.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00624,suffix,লাহনা/derivational suffix,দার,বাজনদার,বাজন+দার,বাজন,লাহনা/derivational suffix,134,1000059273.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,YES,NO,TRAIN
+K00625,suffix,লাহনা/derivational suffix,দার,হকদার,হক+দার,হক,লাহনা/derivational suffix,134,1000059273.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,YES,NO,TRAIN
+K00626,suffix,লাহনা/derivational suffix,দার,টহলদার,টহল+দার,টহল,লাহনা/derivational suffix,134,1000059273.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,YES,NO,TRAIN
+K00739,suffix,derivational,আনি,ফুটানি,ফুট+আনি,ফুট,derivational,140,1000059291.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,YES,YES,TRAIN
+K00743,suffix,derivational,আনি,মরদানি,মরদ+আনি,মরদ,derivational,140,1000059291.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00744,suffix,derivational,আনি,গড়ানি,গড়+আনি,গড়,derivational,140,1000059291.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00769,suffix,derivational,মারি,ঝাঁকমারি,ঝাঁক+মারি,ঝাঁক,derivational,141,1000059297.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00770,suffix,derivational,মারি,গাদিমারি,গাদি+মারি,গাদি,derivational,141,1000059297.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00771,suffix,derivational,মারি,সুগুমমারি,সুগুম+মারি,সুগুম,derivational,141,1000059297.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00772,suffix,derivational,মারি,চুপটিমারি,চুপটি+মারি,চুপটি,derivational,141,1000059297.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00773,inflection,noun_case,কর,মালতিরাকর,মালতিরা+কর,মালতিরা,noun_case,142,1000059300.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,YES,YES,TRAIN
+K00774,inflection,noun_case,ক,রিঝুক,রিঝু+ক,রিঝু,noun_case,142,1000059300.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00776,inflection,noun_case,খাতির,তর খাতির,তর+খাতির,তর,noun_case,142,1000059300.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00777,inflection,noun_case,লাই,তর লাই,তর+লাই,তর,noun_case,142,1000059300.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00778,inflection,noun_case,দারাজে,তহর দারাজে,তহর+দারাজে,তহর,noun_case,142,1000059300.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,YES,NO,TRAIN
+K00779,inflection,noun_case,তাইএঁ,তহর তাইএঁ,তহর+তাইএঁ,তহর,noun_case,142,1000059300.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00780,inflection,verb_finite_example,অহ,পঢ়অহ,পঢ়া+অহ+অ,পঢ়া,verb_finite_example,146,1000059309.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00781,inflection,verb_finite_example,ইঅন,ধরহিঅন,ধরা+অহ+ইঅন,ধরা,verb_finite_example,146,1000059309.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00782,inflection,verb_finite_example,ইঅ,পঢ়হিঅ,পঢ়া+অহ+ইঅ,পঢ়া,verb_finite_example,146,1000059309.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00783,inflection,verb_finite_example,ইস,পঢ়হিস,পঢ়া+অহ+ইস,পঢ়া,verb_finite_example,146,1000059309.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00784,inflection,verb_finite_example,এসিন,ধরহেসিন,ধরা+অহ+এসিন,ধরা,verb_finite_example,146,1000059309.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00785,inflection,verb_finite_example,ইহা,পঢ়হিহা,পঢ়া+অহ+ইহা,পঢ়া,verb_finite_example,146,1000059309.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00786,inflection,verb_finite_example,ইহান,ধরহিহান,ধরা+অহ+ইহান,ধরা,verb_finite_example,146,1000059309.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00787,inflection,verb_finite_example,এইস,পঢ়েইস,পঢ়া+এইস+০,পঢ়া,verb_finite_example,146,1000059309.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00788,inflection,verb_finite_example,এইস+আহ+এ,পঢ়হেইসাহে,পঢ়া+এইস+আহ+এ,পঢ়া,verb_finite_example,146,1000059309.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,YES,NO,TRAIN
+K00789,inflection,verb_finite_example,এইস+আহ+ই,পঢ়হেইসাহি,পঢ়া+এইস+আহ+ই,পঢ়া,verb_finite_example,146,1000059309.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,YES,NO,TRAIN
+K00790,inflection,verb_finite_example,এইন,ধরহেইন,ধরা+অহ+এইন,ধরা,verb_finite_example,146,1000059309.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00791,inflection,verb_finite_example,অত,পঢ়অহত,পঢ়া+অহ+অত,পঢ়া,verb_finite_example,146,1000059309.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00792,inflection,verb_finite_example,এথিন,ধরহেথিন,ধরা+অহ+এথিন,ধরা,verb_finite_example,146,1000059309.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00795,inflection,verb_finite_example,এহ,ধরেহেসিন,ধরা+এহ+এসিন,ধরা,verb_finite_example,146,1000059309.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00797,inflection,verb_finite_example,এহ,ধরেহিহান,ধরা+এহ+ইহান,ধরা,verb_finite_example,146,1000059309.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00798,inflection,verb_finite_example,এহ,পঢ়হেইসাহে,পঢ়া+এইস+আহ+এ,পঢ়া,verb_finite_example,146,1000059309.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,YES,NO,TRAIN
+K00799,inflection,verb_finite_example,এহ,পঢ়হেইসাহি,পঢ়া+এইস+আহ+ই,পঢ়া,verb_finite_example,146,1000059309.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,YES,NO,TRAIN
+K00800,inflection,verb_finite_example,এহ,ধরেহেইন,ধরা+এহ+এইন,ধরা,verb_finite_example,146,1000059309.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00802,inflection,verb_finite_example,ব,কহব,কহা+ব,কহা,future finite,152,1000059327.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00803,inflection,verb_finite_example,ব+অহন,কহবঅহন,কহা+ব+অহন,কহা,future finite,152,1000059327.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00804,inflection,verb_finite_example,ব+এই,ধরবেই,ধরা+ব+এই,ধরা,future finite,152,1000059327.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00805,inflection,verb_finite_example,ব+এইন,ধরবেইন,ধরা+ব+এইন,ধরা,future finite,152,1000059327.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00806,inflection,verb_finite_example,ব+এইক,কাটবেইক,কাট+ব+এইক,কাট,future finite,153,1000059330.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00809,inflection,verb_finite_example,ব+এথিক,ধরবেথিক,ধরা+ব+এথিক,ধরা,future finite,156,1000059339.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00810,inflection,verb_finite_example,ব+এখিন,ধরবেখিন,ধরা+ব+এখিন,ধরা,future finite,156,1000059339.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00811,inflection,verb_finite_example,আউ+ব+এথিক,চরাউবেথিক,চরা+আউ+ব+এথিক,চরা,future finite,156,1000059339.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00812,inflection,verb_finite_example,আউ+ব+এখিন,চরাউবেখিন,চরা+আউ+ব+এখিন,চরা,future finite,156,1000059339.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00813,inflection,verb_nonfinite,,গাহেলাই,গাহা+এলাই,গাহা,nonfinite,156,1000059339.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00814,inflection,verb_nonfinite,,পড়েলাই,পঢ়া+এলাই,পঢ়া,nonfinite,156,1000059339.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00815,inflection,verb_nonfinite,,সুনেলাই,সুনা+এলাই,সুনা,nonfinite,156,1000059339.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00816,inflection,verb_nonfinite,,কহেলাই,কহা+এলাই,কহা,nonfinite,156,1000059339.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00817,inflection,verb_nonfinite,,নিদাইলাই,নিদা+আইলাই,নিদা,nonfinite,156,1000059339.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00818,inflection,verb_nonfinite,,নাহাইলাই,নাহা+আইলাই,নাহা,nonfinite,156,1000059339.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00819,inflection,verb_nonfinite,,জাইলাই,জা+আইলাই,জা,nonfinite,156,1000059339.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00820,inflection,verb_nonfinite,,সুনাউএলাই,সুনা+আউএলাই,সুনা,nonfinite,156,1000059339.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00823,inflection,verb_nonfinite,,নাচে,নাচা+এ,নাচা,nonfinite,156,1000059339.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00824,inflection,verb_nonfinite,,দেখে,দেখা+এ,দেখা,nonfinite,156,1000059339.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00825,inflection,verb_nonfinite,,সুনে,সুনা+এ,সুনা,nonfinite,156,1000059339.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00827,inflection,verb_nonfinite,,জাএক,জা+এক,জা,nonfinite,156,1000059339.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00828,inflection,verb_nonfinite,,কহেক,কহা+এক,কহা,nonfinite,156,1000059339.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00829,inflection,verb_nonfinite,,লেগেক,লেগা+এক,লেগা,nonfinite,156,1000059339.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00831,inflection,verb_nonfinite,,হেউএক,কাঁদা+এক,কাঁদা,nonfinite,156,1000059339.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00833,inflection,verb_nonfinite,,নাচিকুন,নাচা+ইকুন,নাচা,nonfinite,157,1000059342.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00834,inflection,verb_nonfinite,,নাহাইকুন,নাহা+আইকুন,নাহা,nonfinite,157,1000059342.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,YES,YES,TRAIN
+K00835,inflection,verb_nonfinite,,সুনাইকুন,সুনা+আইকুন,সুনা,nonfinite,157,1000059342.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00836,inflection,verb_nonfinite,,দেখাইকুন,দেখা+আইকুন,দেখা,nonfinite,157,1000059342.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00838,inflection,verb_nonfinite,,দেখিকুহুন,দেখা+ইকুহুন,দেখা,nonfinite,157,1000059345.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00839,inflection,verb_nonfinite,,সুনিকুহুন,সুনা+ইকুহুন,সুনা,nonfinite,157,1000059345.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00840,inflection,verb_nonfinite,,নাচিকুহুন,নাচা+ইকুহুন,নাচা,nonfinite,157,1000059345.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00841,inflection,verb_nonfinite,,বাঁধি,বাঁধা+ই,বাঁধা,nonfinite,157,1000059345.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,YES,YES,TRAIN
+K00843,inflection,verb_nonfinite,,গাহি,গাহা+ই,গাহা,nonfinite,157,1000059345.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00844,inflection,verb_nonfinite,,সুনি,সুনা+ই,সুনা,nonfinite,157,1000059345.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00845,inflection,verb_nonfinite,,বাঁধাই,বাঁধা+আই,বাঁধা,nonfinite,157,1000059345.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00846,inflection,verb_nonfinite,,সিঝাই,সিঝা+আই,সিঝা,nonfinite,157,1000059345.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00847,inflection,verb_nonfinite,,পঢ়াই,পঢ়া+আই,পঢ়া,nonfinite,157,1000059345.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00849,inflection,verb_nonfinite,,কহেইতে,কহা+এইতে,কহা,nonfinite,157,1000059345.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00851,inflection,verb_nonfinite,,সুনেইতে,সুনা+এইতে,সুনা,nonfinite,157,1000059345.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00853,inflection,verb_nonfinite,,কহেইতকে,কহা+এইতকে,কহা,nonfinite,158,1000059345.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00854,inflection,verb_nonfinite,,দেখেইতকে,দেখা+এইতকে,দেখা,nonfinite,158,1000059345.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN
+K00855,inflection,verb_nonfinite,,সুনেইতকে,সুনা+এইতকে,সুনা,nonfinite,158,1000059345.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TRAIN

@@ -1,0 +1,4 @@
+﻿model,id,word,gold_labels,predicted_labels,gold_segmentation,predicted_segmentation
+CRF,K00484,ঘারআউলা,B M E B M M E,B M E B M M E,ঘার+আউলা,ঘার+আউলা
+BiLSTM,K00484,ঘারআউলা,B M E B M M E,B M E B M M E,ঘার+আউলা,ঘার+আউলা
+BiLSTM-CRF,K00484,ঘারআউলা,B M E B M M E,B M E B M M E,ঘার+আউলা,ঘার+আউলা

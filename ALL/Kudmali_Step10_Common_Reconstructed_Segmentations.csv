@@ -1,0 +1,6 @@
+﻿Model,ID,Input word,Prediction representation,Prediction,Morphological segmentation,Gold segmentation,Exact match
+CRF,K00484,ঘারআউলা,B/M/E/S,B M E B M M E,ঘার+আউলা,ঘার+আউলা,True
+BiLSTM,K00484,ঘারআউলা,B/M/E/S,B M E B M M E,ঘার+আউলা,ঘার+আউলা,True
+BiLSTM-CRF,K00484,ঘারআউলা,B/M/E/S,B M E B M M E,ঘার+আউলা,ঘার+আউলা,True
+Logistic Regression,K00484,ঘারআউলা,Boundary 0/1,0 0 1 0 0 0,ঘার+আউলা,ঘার+আউলা,True
+Transformer / LLMSegm,K00484,ঘারআউলা,Boundary 0/1,0 0 1 0 0 0,ঘার+আউলা,ঘার+আউলা,True

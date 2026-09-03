@@ -1,0 +1,9 @@
+KUDMALI STEP 9 — BOUNDARY CLASSIFICATION
+
+                model split  precision  recall  f1  accuracy  exact_word_match
+  Logistic Regression   DEV        1.0     1.0 1.0       1.0               1.0
+  Logistic Regression  TEST        1.0     1.0 1.0       1.0               1.0
+Transformer / LLMSegm   DEV        1.0     1.0 1.0       1.0               1.0
+Transformer / LLMSegm  TEST        1.0     1.0 1.0       1.0               1.0
+
+Only validated boundary rows were used; 65 pending rows were excluded. TEST has one Gold word.

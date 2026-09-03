@@ -1,0 +1,13 @@
+﻿model,id,word,boundary_position,gold_label,predicted_label
+Logistic Regression,K00484,ঘারআউলা,1,0,0
+Logistic Regression,K00484,ঘারআউলা,2,0,0
+Logistic Regression,K00484,ঘারআউলা,3,1,1
+Logistic Regression,K00484,ঘারআউলা,4,0,0
+Logistic Regression,K00484,ঘারআউলা,5,0,0
+Logistic Regression,K00484,ঘারআউলা,6,0,0
+Transformer / LLMSegm,K00484,ঘারআউলা,1,0,0
+Transformer / LLMSegm,K00484,ঘারআউলা,2,0,0
+Transformer / LLMSegm,K00484,ঘারআউলা,3,1,1
+Transformer / LLMSegm,K00484,ঘারআউলা,4,0,0
+Transformer / LLMSegm,K00484,ঘারআউলা,5,0,0
+Transformer / LLMSegm,K00484,ঘারআউলা,6,0,0

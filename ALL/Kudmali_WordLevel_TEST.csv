@@ -1,0 +1,11 @@
+﻿id,category,subtype,affix,word,segmentation,base_or_root,morphological_features,source_page,source_image,confidence,review_required,step2_status,step2_reason,duplicate_word_flag,multiple_segmentation_for_word,split
+K00484,suffix,taddhita,আউলা,ঘারআউলা,ঘার+আউলা,ঘার,derivational suffix example,136,1000059279.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,YES,NO,TEST
+K00740,suffix,derivational,আনি,মাথানি,মাথ+আনি,মাথ,derivational,140,1000059291.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TEST
+K00741,suffix,derivational,আনি,মাধানি,মাধ+আনি,মাধ,derivational,140,1000059291.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,YES,YES,TEST
+K00742,suffix,derivational,আনি,রাখানি,রাখ+আনি,রাখ,derivational,140,1000059291.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TEST
+K00794,inflection,verb_finite_example,এহ,পঢ়েহিস,পঢ়া+এহ+ইস,পঢ়া,verb_finite_example,146,1000059309.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TEST
+K00796,inflection,verb_finite_example,এহ,পঢ়েহিহা,পঢ়া+এহ+ইহা,পঢ়া,verb_finite_example,146,1000059309.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TEST
+K00807,inflection,verb_finite_example,ব+এইন,কাটবেইন,কাট+ব+এইন,কাট,future finite,153,1000059330.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TEST
+K00832,inflection,verb_nonfinite,,সুনেক,সুনা+এক,সুনা,nonfinite,156,1000059339.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TEST
+K00848,inflection,verb_nonfinite,,সুনাই,সুনা+আই,সুনা,nonfinite,157,1000059345.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TEST
+K00850,inflection,verb_nonfinite,,দেখেইতে,দেখা+এইতে,দেখা,nonfinite,157,1000059345.jpg,high,no,VERIFIED_GOLD_CANDIDATE,verified_by_existing_annotation_status,NO,NO,TEST

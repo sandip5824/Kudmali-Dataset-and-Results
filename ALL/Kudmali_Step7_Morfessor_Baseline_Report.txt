@@ -1,0 +1,16 @@
+KUDMALI STEP 7 — MORFESSOR BASELINE
+
+Execution status: FALLBACK EXECUTION
+Official Morfessor 2.0.6 could not be installed because the sandbox cannot access package downloads.
+Therefore the results below are from a deterministic MDL-style reimplementation inspired by Morfessor Baseline, not from the official binary/package.
+
+TRAIN: 85 records / 83 unique words
+DEV: 11 records / 11 unique words
+TEST: 10 records / 10 unique words
+Selected boundary penalty on DEV: 0.75
+
+split  boundary_penalty_selected  surface_concatenative_words  boundary_precision  boundary_recall  boundary_f1  word_level_precision_macro  word_level_recall_macro  word_level_f1_macro  exact_segmentation_match  exact_matches
+  DEV                       0.75                            1            0.333333              1.0     0.500000                    0.333333                      1.0             0.500000                       0.0              0
+ TEST                       0.75                            1            0.500000              1.0     0.666667                    0.500000                      1.0             0.666667                       0.0              0
+
+These numbers must not be described as official Morfessor 2.0.6 results in the paper.

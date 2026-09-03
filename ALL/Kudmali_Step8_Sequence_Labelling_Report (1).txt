@@ -1,0 +1,9 @@
+KUDMALI STEP 8 — SEQUENCE LABELLING
+
+     model  dev_boundary_precision  dev_boundary_recall  dev_boundary_f1  dev_exact_match  test_boundary_precision  test_boundary_recall  test_boundary_f1  test_exact_match  test_exact_matches  test_words
+       CRF                     1.0                  1.0              1.0              1.0                      1.0                   1.0               1.0               1.0                   1           1
+    BiLSTM                     1.0                  1.0              1.0              1.0                      1.0                   1.0               1.0               1.0                   1           1
+BiLSTM-CRF                     1.0                  1.0              1.0              1.0                      1.0                   1.0               1.0               1.0                   1           1
+
+LIMITATION:
+Only 21/106 Gold records have validated B/M/E/S representations. The current results therefore represent a pilot on the validated sequence subset. No missing labels were fabricated and no TEST tuning was performed.
